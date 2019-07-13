@@ -1,0 +1,14 @@
+/home/paulo/Projects/apicomdocker/bin/Debug/netcoreapp2.2/apicomdocker.deps.json
+/home/paulo/Projects/apicomdocker/bin/Debug/netcoreapp2.2/apicomdocker.runtimeconfig.json
+/home/paulo/Projects/apicomdocker/bin/Debug/netcoreapp2.2/apicomdocker.runtimeconfig.dev.json
+/home/paulo/Projects/apicomdocker/bin/Debug/netcoreapp2.2/apicomdocker.dll
+/home/paulo/Projects/apicomdocker/bin/Debug/netcoreapp2.2/apicomdocker.pdb
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.csprojAssemblyReference.cache
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.csproj.CoreCompileInputs.cache
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.RazorAssemblyInfo.cache
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.RazorAssemblyInfo.cs
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.AssemblyInfoInputs.cache
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.AssemblyInfo.cs
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.RazorTargetAssemblyInfo.cache
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.dll
+/home/paulo/Projects/apicomdocker/obj/Debug/netcoreapp2.2/apicomdocker.pdb
