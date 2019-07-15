@@ -13,3 +13,15 @@ This is just a small test where I checked out:
 
 * Execute docker image in a container
 
+* Install Minikube
+
+* Run a docker image on kubernetes
+
+* Expose the pod's image
+
+* Create a service
+
+* Install Minikube dashboard
+
+* Access the app image docker in kubernates
+
