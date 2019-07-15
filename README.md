@@ -1,4 +1,4 @@
-# dotnetcore_api_and_docker_linux
+# dotnetcore_api_and_docker_and_kubernetes_linux
 This is just a small test where I checked out:
 
 * Dotnet core sdk and runtime
