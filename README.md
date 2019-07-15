@@ -1,15 +1,15 @@
 # dotnetcore_api_and_docker_linux
 This is just a small test where I checked out:
 
-*Dotnet core sdk and runtime
+* Dotnet core sdk and runtime
 
-*Dotnet core app on debian
+* Dotnet core app on debian
 
-*Using MonoDevelop as IDE on dotnet core app
+* Using MonoDevelop as IDE on dotnet core app
 
-*Dockerfile 
+* Dockerfile 
 
-*Create docker image
+* Create docker image
 
-*Execute docker image in a container
+* Execute docker image in a container
 
